@@ -9,7 +9,7 @@ You can visit https://keval-chat-app.herokuapp.com/ directly</br>
 Else you can use it by: </br>
 
 1. Clone the repo</br>
-	- `<git clone https://github.com/your_username_/Project-Name.git</br>`
+	- `<git clone https://github.com/Kevaljagani/Hello-Chat.git</br>`
 2.  Install NPM packages</br>
 	- `<npm install>`
 
